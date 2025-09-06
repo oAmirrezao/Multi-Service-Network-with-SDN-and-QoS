@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Main experiment runner for Multi-Service Network with SDN
-Author: Network Specialist
-Date: 2025-09-05
+Author: Amirreza Inanloo
+Date: 2025-06-05
 """
 
 import sys
