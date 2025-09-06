@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Traffic Generator for Multi-Service Network
-Author: Network Specialist
-Date: 2025-09-05
+Author: Amirreza Inanloo
+Date: 2025-06-05
 """
 
 import time
