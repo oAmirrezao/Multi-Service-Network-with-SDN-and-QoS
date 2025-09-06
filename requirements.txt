@@ -1,0 +1,5 @@
+mininet>=2.3.0
+matplotlib>=3.0.0
+numpy>=1.19.0
+pandas>=1.1.0
+scapy>=2.4.0
