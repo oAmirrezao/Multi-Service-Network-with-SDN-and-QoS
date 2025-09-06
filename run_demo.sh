@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Demo runner script for Multi-Service Network SDN
-# Author: Network Specialist
-# Date: 2025-09-05
+# Author: Amirreza Inanloo
+# Date: 2025-06-05
 
 # Colors for output
 RED='\033[0;31m'
