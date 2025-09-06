@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Debug and setup verification script
-# Author: Network Specialist
-# Date: 2025-09-05
+# Author: Amirreza Inanloo
+# Date: 2025-06-05
 
 echo "=== Multi-Service Network SDN Setup Verification ==="
 echo
