@@ -102,7 +102,7 @@ sudo python3 run_experiment.py --qos --routing static --duration 60
 ```
 
 ## Project Structure
-
+```
 multi-service-network-sdn/
 ├── src/
 │   ├── network_topology.py    # Core network topology
@@ -116,6 +116,7 @@ multi-service-network-sdn/
 ├── debug_setup.sh            # Setup verification script
 ├── requirements.txt          # Python dependencies
 └── README.md                 # This file
+```
 
 
 ## Results
